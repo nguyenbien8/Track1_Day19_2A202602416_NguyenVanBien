@@ -1,4 +1,4 @@
-# Track1_Day18_2A202602416_NguyenVanBien
+# Track1_Day19_2A202602416_NguyenVanBien
 
 ## 1. Thông tin cá nhân và nhóm
 - **MHV:** 2A202602416 · **Họ tên:** Nguyễn Văn Biển
@@ -19,7 +19,11 @@ Evidence ban đầu: practice note của Đạt (Day 17). Chưa chứng minh: t�
 Link prototype: [prototype-link.md](prototype-link.md)
 
 ## 4. Đóng góp của tôi trong nhóm
-`[Biển tự viết]`
+- **Phụ trách Option B (Ghi chú gắn với nguồn):** rà luồng xem Slide 12 → ghi chú → gắn nguồn → lưu; góp ý để nguồn của ghi chú hiển thị rõ và nội dung mẫu dùng chung được với A, C.
+- **Phần chung:** trao đổi với nhóm về ba option; rà design sheet, test plan và nội dung mẫu, bảo đảm A/B/C dùng cùng một task. Góp ý bảng Human–AI theo hướng AI hỗ trợ tìm, tổng hợp và tạo nháp, còn người học kiểm tra nguồn và quyết định lưu.
+- **Phiên test số 2 (B → C → A) với tester ngoài nhóm:** chuẩn bị prototype, bảng ghi chép và task chung; để tester tự thao tác, ghi lại hành vi, thời gian, chỗ do dự và câu nói nguyên văn; chỉ dùng câu cứu hộ khi cần, không hướng dẫn cách dùng.
+- **Feedback và tổng hợp:** viết Feedback Note theo bốn lớp (Observed, Interpreted, Next Change, Still Unproven); thu note của các phiên còn lại, gửi file chung cho nhóm và tham gia chốt Next Change: kết hợp bản nháp của C với nguồn của B, người học giữ quyền quyết định cuối.
+- **Điều tôi rút ra:** thiết kế Human–AI không phải để AI làm càng nhiều càng tốt, mà là chia việc sao cho người dùng vẫn hiểu và kiểm soát được kết quả.
 
 ## 5. Prototype Feedback
 Phiên tôi facilitate với tester ngoài nhóm (thứ tự B → C → A): tester hoàn thành cả ba option không cần trợ giúp, đọc nguồn trước khi lưu ở B và C, không sửa nội dung, mất nhiều thời gian nhất ở A và chọn C vì "nhanh nhất mà vẫn có bước kiểm tra". Tester vẫn muốn tự kiểm tra đúng sai và đánh giá B cao vì rõ nguồn.
